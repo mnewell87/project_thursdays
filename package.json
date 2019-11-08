@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "my first npm project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "server": "live-server public --browser=chrome",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[Z"
+  },
+  "author": "",
+  "license": "ISC"
+}
