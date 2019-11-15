@@ -4,11 +4,11 @@
   },
   "name": "project1",
   "version": "1.0.0",
-  "description": "my first npm project",
+  "description": "my first NPM project",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "server": "live-server public --browser=chrome",
+    "server": "live-server public --entry-file=index2.html --browser=chrome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
